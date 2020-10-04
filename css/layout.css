@@ -299,7 +299,7 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
-  	height: 42px;
+  	height: 10px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -318,9 +318,9 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: cornflowerblue;
    display: inline-block;
-  	height: 42px;
+  	height: 10px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
@@ -355,6 +355,19 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+
+.high {
+    width: 85%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+
+.medium {
+    width: 65%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
