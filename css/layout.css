@@ -281,6 +281,151 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+
+/**/
+
+#education {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#education a, #education a:visited  { color: #11ABB0; }
+#education a:hover, #education a:focus { color: #313131; }
+
+#education h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#education h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#education h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#education .header-col { padding-top: 9px; }
+#education .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#education .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#education .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#education .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/**/
+#skills {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#skills a, #skills a:visited  { color: #11ABB0; }
+#skills a:hover, #skills a:focus { color: #313131; }
+
+#skills h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#skills h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#skills h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#skills .header-col { padding-top: 9px; }
+#skills .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#skills .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#skills .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#skills .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+
+
+#projects {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#projects a, #projects a:visited  { color: #11ABB0; }
+#projects a:hover, #projects a:focus { color: #313131; }
+
+#projects h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#projects h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#projects h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#projects .header-col { padding-top: 9px; }
+#projects .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#projects .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#projects .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#projects .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -589,6 +734,44 @@ ul#nav li.current a { color: #F06000; }
 .mfp-fade.mfp-wrap.mfp-removing .mfp-content .popup-modal {
    opacity: 0;
 }
+
+
+
+
+#publications {
+   background: #ebeeee;
+   padding-top: 90px;
+   padding-bottom: 60px;
+}
+#publications h1 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: #95A3A3;
+}
+
+/* Portfolio Content */
+#publications-wrapper .columns { margin-bottom: 36px; }
+
+
+#certificates {
+   background: #ebeeee;
+   padding-top: 90px;
+   padding-bottom: 60px;
+}
+#certificates h1 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-bottom: 48px;
+   color: #95A3A3;
+}
+
+/* Portfolio Content */
+#certificates-wrapper .columns { margin-bottom: 36px; }
 
 /* ------------------------------------------------------------------ */
 /* f. Call To Action Section
